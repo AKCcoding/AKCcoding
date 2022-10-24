@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKCcoding
+- 👋 Hi, I’m Alrae Chaluangco
 - 👀 I’m interested in Creating advanced project to have financial freedom
 - 🌱 I’m currently learning Python JavaScript and React with Spring boot
 - 💞️ I’m looking to collaborate on BlowJava with projects in mind to create and implement
