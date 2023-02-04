@@ -5,10 +5,14 @@
 - 🕵🏻‍♂️ My Core Competencies to look out for :
 
 ✅ Responsible for keeping records and uses GIT version control system to manage and keep track of source codes changes/history and GITHUB for cloud-based data backups and repositories.
-<br>✅ Manages compelling interactive applications that are compatible with different platforms.<br/>
-<br>✅ Up to Date development tools and resources for maintaining maximum compatibility.<br/>
-<br>✅ Dedicated to resolve issues and troubleshoot/debug applications.<br/>
-<br>✅ Develops software effectively and code per specification with feasibility in mind.<br/>
+
+✅ Manages compelling interactive applications that are compatible with different platforms.
+
+✅ Up to Date development tools and resources for maintaining maximum compatibility.
+
+✅ Dedicated to resolve issues and troubleshoot/debug applications.
+
+✅ Develops software effectively and code per specification with feasibility in mind.
 
 - 🤔 I’m currently learning a lot of things including ReactJS, AngularJS, VueJS Frameworks for Web Development; Phyton, Java, C# for Backend Development etc. I'm Drowning 🤣 Halp!!!
 - 🌱 I’m looking for an environment wherein I would be able to enhance my skills as an individual and as a Programmer, Developer, Software Engineer.
