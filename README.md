@@ -29,7 +29,7 @@
 <img align="left" alt="sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?" style="padding-right:10px;" />
-<img align="left" alt="graphql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png?" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
