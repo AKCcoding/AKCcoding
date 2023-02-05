@@ -24,21 +24,23 @@
 ### Most Used Languages , Tools and IDE
 
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png?" style="padding-right:10px;" />
-<img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png?" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png?" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="C #" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />
 <img align="left" alt="Html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png?" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png?" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png?" style="padding-right:10px;" />
+<img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" style="padding-right:10px;" />
-<img align="left" alt="Microsoft Access" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/access-64-190771.png?" style="padding-right:10px;" />
+<img align="left" alt="Microsoft Access" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/access-64-190771.png" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
