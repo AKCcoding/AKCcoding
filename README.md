@@ -33,7 +33,7 @@
 <img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" />
+<img align="left" alt="github" width="26px" src="https://www.pngkey.com/png/detail/178-1787508_github-icon-download-at-icons8-white-github-icon.png" style="padding-right:10px;" />
 
 <br/><br/>
 <img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
