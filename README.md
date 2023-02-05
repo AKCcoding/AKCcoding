@@ -2,7 +2,7 @@
 
 ## STI College Student when I built this, Cryptocurrency & NFT Enthusiast!
 
-- 🕵🏻‍♂️ My Core Competencies to look out for :
+- # 🕵🏻‍♂️ My Core Competencies to look out for :
 
 ✅ Responsible for keeping records and uses GIT version control system to manage and keep track of source codes changes/history and GITHUB for cloud-based data backups and repositories.
 
