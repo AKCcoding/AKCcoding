@@ -26,7 +26,7 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png?" style="padding-right:10px;" />
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png?" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png?" style="padding-right:10px;" />
-<img align="left" alt="C #" width="26px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" style="padding-right:10px;" />
+<img align="left" alt="C #" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />
 <img align="left" alt="Html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> 
