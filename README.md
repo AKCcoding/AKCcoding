@@ -1,6 +1,6 @@
 # Hi there, I am Alrae Chaluangco - aka AKCcoding 🙇
 
-## STI College Student when I built this, Cryptocurrency & NFT Enthusiast!
+## College Student when I built this, Cryptocurrency & NFT Enthusiast!
 
 🕵🏻‍♂️ My Core Competencies to look out for :
 
