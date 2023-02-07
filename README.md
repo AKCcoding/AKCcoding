@@ -22,7 +22,7 @@
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Technologies, IDE and Tools
+### Technologies, IDE's and tools
 
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="padding-right:10px;" />
@@ -56,8 +56,9 @@
 <img align="left" alt="unreal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 
-<img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
-
+<p></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
-
+<p></p>
+<img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
+<p>/</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="akccoding" />
