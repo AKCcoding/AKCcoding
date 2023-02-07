@@ -56,10 +56,10 @@
 <img align="left" alt="unreal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 
-<br/><br/>
+<br><br/>
 
 <img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="akccoding" />
