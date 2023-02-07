@@ -39,9 +39,11 @@
 <img align="left" alt="python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" style="padding-right:10px;" />
 <img align="left" alt="microsoft Access" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/access-64-190771.png" style="padding-right:10px;" />
+<img align="left" alt="oracle" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/oracle-9-1175131.png" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
