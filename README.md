@@ -23,7 +23,7 @@
 - 🥅 2023 Goals: Be more mature and responsible
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/b3xW7DQjtc0AAAAC/futaba-sakura.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/b3xW7DQjtc0AAAAC/futaba-sakura.gif">
 
 ### Technologies, IDE's and tools
 
@@ -41,6 +41,7 @@
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
+<img align="left" alt="spring" width="26px" src="https://img.icons8.com/color/512/spring-logo.png" style="padding-right:10px;" />
 <img align="left" alt="wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-64-1175065.png" style="padding-right:10px;" />
 <img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
 <img align="left" alt="sketch" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sketch-70-1174968.png" style="padding-right:10px;" />
