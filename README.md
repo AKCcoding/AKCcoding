@@ -26,6 +26,7 @@
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="padding-right:10px;" />
 <img align="left" alt="eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" style="padding-right:10px;" />
 <img align="left" alt="c#" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -35,12 +36,11 @@
 <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
 <img align="left" alt="wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-64-1175065.png" style="padding-right:10px;" />
 <img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
 <img align="left" alt="sketch" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sketch-70-1174968.png" style="padding-right:10px;" />
 <img align="left" alt="invision" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/invision-2-432521.png" style="padding-right:10px;" />
-<img align="left" alt="python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" style="padding-right:10px;" />
-<img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="padding-right:10px;" />
