@@ -23,7 +23,7 @@
 - 🥅 2023 Goals: Be more mature and responsible
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/b3xW7DQjtc0AAAAC/futaba-sakura.gif">
 
 ### Technologies, IDE's and tools
 
