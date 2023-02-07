@@ -36,6 +36,9 @@
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
 <img align="left" alt="wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-64-1175065.png" style="padding-right:10px;" />
+<img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
+<img align="left" alt="sketch" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sketch-70-1174968.png" style="padding-right:10px;" />
+<img align="left" alt="invision" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/invision-2-432521.png" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
