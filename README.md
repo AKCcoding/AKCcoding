@@ -20,7 +20,6 @@
 - 🎮 I love playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
 - 🥅 2023 Goals: Be more mature and responsible
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Technologies, IDE's and tools
 
