@@ -60,10 +60,10 @@
 <img align="left" alt="office" width="26px" src="https://img.icons8.com/fluency/512/microsoft-office-2019.png" style="padding-right:10px;" />
 <img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;" />
 
-<li><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" /></li>
-
 <img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
 
 <img align="left" src="Certificates/EcommerceWebsiteUsingWordPress_Chaluangco.png" alt="streak" />
