@@ -21,10 +21,12 @@
 - 📸⚡🎥 I love photo editing and video editing.
 - 🎮 I love playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
 - 🥅 2023 Goals: Be more mature and responsible
-- 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare. <img align="right" width = "400px" src="Certificates/Udemy.png"/>
+- 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
+  <img align="right" width = "400" src="Certificates/Udemy.png"/>
 
 ### Technologies, IDE's and tools
 
+<br>
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="padding-right:10px;" />
 <img align="left" alt="eclipse" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" style="padding-right:10px;" />
@@ -58,14 +60,15 @@
 <img align="left" alt="unreal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 <img align="left" alt="office" width="26px" src="https://img.icons8.com/fluency/512/microsoft-office-2019.png" style="padding-right:10px;" />
-<img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;" />
+<img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;"/>
 
-<img align="left" alt="akccoding's github stats" width="400" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="akccoding's github stats" height ="200" width="400" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
 
 <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
+<img align="left" height = "150" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
 
 <img align="left" src="Certificates/EcommerceWebsiteUsingWordPress_Chaluangco.png" alt="streak" />
-
+<br>
+<br/>
 <img align="left" src="Certificates/Rapid Application Development.jpg" alt="streak" />
