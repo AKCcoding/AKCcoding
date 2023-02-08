@@ -21,11 +21,7 @@
 - 📸⚡🎥 I love photo editing and video editing.
 - 🎮 I love playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
 - 🥅 2023 Goals: Be more mature and responsible
-- 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
-
-  <br>
-  <img align="right" width = "400px" src="Certificates/Udemy.png"/>
-  <br />
+- 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare. <img align="right" width = "400px" src="Certificates/Udemy.png"/>
 
 ### Technologies, IDE's and tools
 
@@ -71,6 +67,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
 
 <img align="left" src="Certificates/EcommerceWebsiteUsingWordPress_Chaluangco.png" alt="streak" />
-<br>
-<br/>
+
 <img align="left" src="Certificates/Rapid Application Development.jpg" alt="streak" />
