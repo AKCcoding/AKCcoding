@@ -64,6 +64,6 @@
 
 <img align="left" alt="akccoding's github stats" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="akccoding"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"/>
 
 <img align="left" src="Certificates/EcommerceWebsiteUsingWordPress_Chaluangco.png" alt="streak" />
