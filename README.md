@@ -68,4 +68,4 @@
 
 <img align="left" src="Certificates/CSS,Bootstrap,Java,Python Stack Course.jpg" alt="cert" />
 <img align="left" src="Certificates/MasterCourse Rapid App Development.jpg" alt="cert" />
-<img align="left" src="Certificates/EcommerceWebsiteUsingWordPress_Chaluangco.png" alt="cert" />
+<img align="left" src="Certificates/Create Ecommerce Website.png" alt="cert" />
