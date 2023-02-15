@@ -44,6 +44,7 @@
 <img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
 <img align="left" alt="sketch" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sketch-70-1174968.png" style="padding-right:10px;" />
 <img align="left" alt="invision" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/invision-2-432521.png" style="padding-right:10px;" />
+<img align="left" alt="zyro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Zyro_logo.png" style="padding-right:10px;" />
 <img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="padding-right:10px;" />
