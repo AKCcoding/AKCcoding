@@ -70,6 +70,7 @@
 <img align="left" src="Certificates/CSS,Bootstrap,Java,Python Stack Course.jpg" alt="cert" />
 <img align="left" src="Certificates/JavaScript and PHP Programming.jpg" alt="cert" />
 <img align="left" src="Certificates/JavaScript and Jquery Certificate.jpg" alt="cert" />
+<img align="left" src="Certificates/Introduction to Domain Names and Web Hosting.jpg" alt="cert" />
 <img align="left" src="Certificates/MasterCourse Rapid App Development.jpg" alt="cert" />
 <img align="left" src="Certificates/MasterCourse Digital Transformation.jpg" alt="cert" />
 <img align="left" src="Certificates/NetworkSecurity.jpg" alt="cert" />
