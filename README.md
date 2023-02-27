@@ -55,8 +55,6 @@
 <img align="left" alt="github" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" style="padding-right:10px;" />
 <img align="left" alt="firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/firebase-1-282796.png" style="padding-right:10px;" />
 <img align="left" alt="docker" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" style="padding-right:10px;" />
-<img align="left" alt="unity" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" style="padding-right:10px;" />
-<img align="left" alt="unreal" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/unreal-engine-2749375-2284765.png" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 <img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;"/>
 <img align="left" alt="office" width="26px" src="https://img.icons8.com/fluency/512/microsoft-office-2019.png" style="padding-right:10px;" />
