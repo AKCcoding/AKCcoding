@@ -39,6 +39,7 @@
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px" src="https://img.icons8.com/color/512/nodejs.png" style="padding-right:10px;" />
 <img align="left" alt="spring" width="26px" src="https://img.icons8.com/color/512/spring-logo.png" style="padding-right:10px;" />
 <img align="left" alt="wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-64-1175065.png" style="padding-right:10px;" />
 <img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
