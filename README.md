@@ -74,4 +74,5 @@
 <img align="left" src="Certificates/MasterCourse Rapid App Development.jpg" alt="cert" />
 <img align="left" src="Certificates/MasterCourse Digital Transformation.jpg" alt="cert" />
 <img align="left" src="Certificates/NetworkSecurity.jpg" alt="cert" />
+<img align="left" src="https://udemy-certificate.s3.amazonaws.com/image/UC-abde9150-4464-4c84-beb2-00d37949e1ac.jpg?v=1678352232000" alt="cert" />
 <img align="left" src="Certificates/Create Ecommerce Website.jpg" alt="cert" />
