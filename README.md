@@ -1,8 +1,8 @@
 ![MasterHead](https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif)
 
-# Hi there, I am Alrae Chaluangco - aka AKCcoding 🙇
+# Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
-## College Student when I built this, Cryptocurrency & NFT Enthusiast!
+## Web 3 and NFT Enthusiast!
 
 🕵🏻‍♂️ My Core Competencies to look out for :
 
@@ -22,7 +22,6 @@
 - 🎮 I love playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
 - 🥅 2023 Goals: Be more mature and responsible
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
-
 ### Technologies, IDE's and tools
 
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -65,14 +64,8 @@
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
 
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
-
-<img align="left" src="Certificates/CSS,Bootstrap,Java,Python Stack Course.jpg" alt="cert" />
-<img align="left" src="Certificates/JavaScript and PHP Programming.jpg" alt="cert" />
-<img align="left" src="Certificates/JavaScript and Jquery Certificate.jpg" alt="cert" />
-<img align="left" src="Certificates/Introduction to Domain Names and Web Hosting.jpg" alt="cert" />
-<img align="left" src="Certificates/MasterCourse in Web Frameworks.jpg" alt="cert" />
-<img align="left" src="Certificates/MasterCourse Rapid App Development.jpg" alt="cert" />
-<img align="left" src="Certificates/MasterCourse Digital Transformation.jpg" alt="cert" />
-<img align="left" src="Certificates/NetworkSecurity.jpg" alt="cert" />
-<img align="left" src="https://udemy-certificate.s3.amazonaws.com/image/UC-abde9150-4464-4c84-beb2-00d37949e1ac.jpg?v=1678352232000" alt="cert" />
-<img align="left" src="Certificates/Create Ecommerce Website.jpg" alt="cert" />
+<br>
+</br>
+<br>
+</br>
+[Check Out my Skills and Certification](https://raekei.web.app/#portfolio)
