@@ -1,4 +1,4 @@
-![MasterHead](https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif)
+![MasterHead](https://i.pinimg.com/originals/f0/d1/65/f0d16561ae98574833c1b62433277788.gif)
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
