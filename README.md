@@ -64,9 +64,7 @@
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
 
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
-<br>
-</br>
-<br>
-</br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 [Check Out my Skills and Certification](https://raekei.web.app/#portfolio)
