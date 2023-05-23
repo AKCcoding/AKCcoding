@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/vBRqsStHU6EAAAAC/kafka-spider.gif" width=9000>
+<img src="https://media.tenor.com/vBRqsStHU6EAAAAC/kafka-spider.gif" width=900>
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
