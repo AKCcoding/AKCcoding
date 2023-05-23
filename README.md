@@ -1,4 +1,4 @@
-![HeadMaster](https://64.media.tumblr.com/d22abaf3cabd9c473169f0257fe03a60/d9063e987c87dce2-8e/s1280x1920/75612196b576aab70aad2a5c36610aedc51cc661.gif)
+<img width="1000" height="500" src="kafka.gif" alt="kafka" />
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
