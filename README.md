@@ -1,5 +1,5 @@
 
-<img src="https://i.redd.it/vzyh20lxcl191.gif" width=1000>
+<img src="https://64.media.tumblr.com/d22abaf3cabd9c473169f0257fe03a60/d9063e987c87dce2-8e/s1280x1920/75612196b576aab70aad2a5c36610aedc51cc661.gifv" width=1000>
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
