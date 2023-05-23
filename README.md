@@ -1,5 +1,5 @@
 
-<img src="https://media.tenor.com/PYcQRFsoYvsAAAAC/honkai-star-rail-march-7th.gif" width=1000>
+<img src="https://i.redd.it/vzyh20lxcl191.gif" width=1000>
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
