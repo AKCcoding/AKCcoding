@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/vBRqsStHU6EAAAAC/kafka-spider.gif" width=900>
+<img src="https://media.tenor.com/YifZLG831mAAAAAd/kafka-honkai-star-rail.gif" width=1000>
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
