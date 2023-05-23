@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/vBRqsStHU6EAAAAd/kafka-spider.gif)
+![MasterHead](https://media.tenor.com/vBRqsStHU6EAAAAC/kafka-spider.gif)
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
