@@ -1,4 +1,4 @@
-<img width="1000" height="500" src="kafka.gif" alt="kafka" />
+<img width="1000" height="500" src="https://giffiles.alphacoders.com/610/61072.gif" alt="joker" />
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
