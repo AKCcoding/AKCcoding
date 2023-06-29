@@ -1,4 +1,4 @@
-<img width="1000" height="500" src="https://giffiles.alphacoders.com/610/61072.gif" alt="joker" />
+<img width="800" height="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" alt="csa" />
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
@@ -16,10 +16,10 @@
 
 ✅ Develops software effectively and code per specification with feasibility in mind.
 
-- 🤔 I’m currently learning a lot of things including ReactJS, AngularJS, VueJS Frameworks for Web Development; Phyton, Java, C# for Backend Development etc. I'm Drowning 🤣 Halp!!!
-- 🌱 I’m looking for an environment wherein I would be able to enhance my skills as an individual and as a Programmer, Developer, Software Engineer.
-- 📸⚡🎥 I love photo editing and video editing.
-- 🎮 I love playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
+- 🤔 I’m currently learning a lot of things including ReactJS, AngularJS, VueJS Frameworks for Web Development; Python, Java and C# for Backend Development.
+- 🌱 I’m looking for an environment wherein I would be able to enhance my skills not just as individual but also as a Developer and Cybersecurity Engineer.
+- 📸⚡🎥 My hobbies are photo editing and video editing.
+- 🎮 I LOVE playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
 - 🥅 2023 Goals: Be more mature and responsible
 - 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
 ### Technologies, IDE's and tools
