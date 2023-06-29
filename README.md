@@ -61,9 +61,10 @@
 <img align="left" alt="office" width="26px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" style="padding-right:10px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
-
+<img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25"/>
+&nbsp;
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
+&nbsp;
 <p align="center">
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"></p>
 &nbsp;<br>
