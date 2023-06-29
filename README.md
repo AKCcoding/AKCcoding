@@ -1,6 +1,6 @@
 <img width="1000" height="500" src="CSA.gif" alt="csa" />
 
-### Technologies, IDE's and tools
+### Technologies, IDE's and Tools
 
 <img align="left" alt="visual studio code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" style="padding-right:10px;" />
