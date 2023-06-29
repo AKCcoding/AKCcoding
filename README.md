@@ -64,8 +64,9 @@
 <img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25" />
 
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
-
-<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
+<p align="center">
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
+</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
