@@ -1,4 +1,4 @@
-<img width="800" height="400" src="CSA.gif" alt="csa" />
+<img width="1000" height="500" src="CSA.gif" alt="csa" />
 
 # Hi there, I am Alrae Chaluangco- aka AKCcoding 🙇
 
