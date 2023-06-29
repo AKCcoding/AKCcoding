@@ -65,8 +65,7 @@
 
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
 <p align="center">
-<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true">
-</p>
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
