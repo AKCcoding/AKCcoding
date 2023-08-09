@@ -12,6 +12,7 @@
 <img align="left" alt="cSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/> 
 <img align="left" alt="sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="office" width="26px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/bootstrap-9305875-7694074.png" style="padding-right:10px;"/>
 <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
@@ -36,7 +37,7 @@
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 <img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;"/>
 <img align="left" alt="office" width="26px" src="https://img.icons8.com/fluency/512/microsoft-office-2019.png" style="padding-right:10px;" />
-<img align="left" alt="office" width="26px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" style="padding-right:10px;"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25"/>
