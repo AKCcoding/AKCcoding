@@ -17,14 +17,16 @@
 <img align="left" alt="angular" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" style="padding-right:10px;" />
 <img align="left" alt="vue" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" style="padding-right:10px;" />
-<img align="left" alt="django" width="26px" src="https://img.icons8.com/color/512/nodejs.png" style="padding-right:10px;" />
+<img align="left" alt="node" width="26px" src="https://img.icons8.com/color/512/nodejs.png" style="padding-right:10px;" />
+<img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="spring" width="26px" src="https://img.icons8.com/color/512/spring-logo.png" style="padding-right:10px;" />
 <img align="left" alt="wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/wordpress-64-1175065.png" style="padding-right:10px;" />
 <img align="left" alt="figma" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png" style="padding-right:10px;" />
 <img align="left" alt="sketch" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/sketch-70-1174968.png" style="padding-right:10px;" />
 <img align="left" alt="invision" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/invision-2-432521.png" style="padding-right:10px;" />
 <img align="left" alt="zyro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Zyro_logo.png" style="padding-right:10px;" />
-<img align="left" alt="node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-server-5723729-4789301.png
+" style="padding-right:10px;" />
 <img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png" style="padding-right:10px;" />
 <img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" style="padding-right:10px;" />
@@ -37,6 +39,7 @@
 <img align="left" alt="photoshop" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png" style="padding-right:10px;" />
 <img align="left" alt="filmora" width="26px" src="https://img.icons8.com/color/512/filmora.png" style="padding-right:10px;"/>
 <img align="left" alt="office" width="26px" src="https://img.icons8.com/fluency/512/microsoft-office-2019.png" style="padding-right:10px;" />
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
