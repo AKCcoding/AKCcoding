@@ -1,4 +1,4 @@
-<img width="1000" height="500" src="CSA.gif" alt="csa" />
+<img width="1000" height="500" src="CS50X_Alrae.png" alt="cs50x" />
 
 ### Technologies, IDE's and Tools
 
