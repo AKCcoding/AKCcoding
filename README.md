@@ -1,4 +1,4 @@
-<img width="1000" height="800" src="CS50X_Alrae.png" alt="cs50x" />
+<img width="1000" height="750" src="CS50X_Alrae.png" alt="cs50x" />
 
 ### Technologies, IDE's and Tools
 
