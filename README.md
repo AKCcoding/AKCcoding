@@ -3,7 +3,7 @@
 
 ### Programming Languages
 
-[![PL](https://skillicons.dev/icons?i=python,java,cs,c&theme=light)](https://github.com/AKCcoding)
+[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,swift&theme=light)](https://github.com/AKCcoding)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
