@@ -1,9 +1,9 @@
-### Technologies, IDE's and Tools
-
-### Front- End Development
+<h1>Technologies, Tools, and Stacks</h1>
 &nbsp;
 
-[![Stacks](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://github.com/AKCcoding)
+### Programming Languages
+
+[![PL](https://skillicons.dev/icons?i=python,java,cs,c&theme=light)](https://github.com/AKCcoding)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
