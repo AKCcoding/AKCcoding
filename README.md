@@ -6,35 +6,35 @@
 
 
 ### Programming Languages
-[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,ruby)](https://github.com/AKCcoding)
+![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,ruby)
 &nbsp;
 
 ### Front - End Development
-[![FE](https://skillicons.dev/icons?i=bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)](https://github.com/AKCcoding)
+![FE](https://skillicons.dev/icons?i=bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
 &nbsp;
 
 ### Back - End Development
-[![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)](https://github.com/AKCcoding)
+![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)
 &nbsp;
 
 ### Mobile
-[![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,dart,xamarin)](https://github.com/AKCcoding)
+![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,dart,xamarin)
 &nbsp;
 
 ### Databases
-[![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra)](https://github.com/AKCcoding)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra)
 &nbsp;
 
 ### Dev Ops
-[![DO](https://skillicons.dev/icons?i=aws,docker,jenkins,azure)](https://github.com/AKCcoding)
+![DO](https://skillicons.dev/icons?i=aws,docker,jenkins,azure)
 &nbsp;
 
 ### Backend as a Service
-[![BAAS](https://skillicons.dev/icons?i=firebase,heroku)](https://github.com/AKCcoding)
+![BAAS](https://skillicons.dev/icons?i=firebase,heroku)
 &nbsp;
 
 ### Softwares , Version Control, Cybersecurity, and Hardware
-[![BAAS](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,linux,arduino)](https://github.com/AKCcoding)
+![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,linux,arduino)
 &nbsp;
 
 
