@@ -1,7 +1,11 @@
 <h1>Technologies, Tools, and Stacks</h1>
 
-### Programming Languages
+### Integrated Development Environment
+[![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)](https://github.com/AKCcoding)
+&nbsp;
 
+
+### Programming Languages
 [![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,ruby)](https://github.com/AKCcoding)
 &nbsp;
 
@@ -10,7 +14,7 @@
 &nbsp;
 
 ### Back - End Development
-[![BE](https://skillicons.dev/icons?i=nodejs,spring,nest)](https://github.com/AKCcoding)
+[![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)](https://github.com/AKCcoding)
 &nbsp;
 
 ### Mobile
@@ -21,6 +25,17 @@
 [![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra)](https://github.com/AKCcoding)
 &nbsp;
 
+### Dev Ops
+[![DO](https://skillicons.dev/icons?i=aws,docker,jenkins,azure)](https://github.com/AKCcoding)
+&nbsp;
+
+### Backend as a Service
+[![BAAS](https://skillicons.dev/icons?i=firebase,heroku)](https://github.com/AKCcoding)
+&nbsp;
+
+### Softwares , Version Control, Cybersecurity, and Hardware
+[![BAAS](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,linux,arduino)](https://github.com/AKCcoding)
+&nbsp;
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
