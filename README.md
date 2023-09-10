@@ -46,15 +46,11 @@
 &nbsp;
 <p align="center">
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"></p>
-&nbsp;<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               [Check Out my Skills and Certification](https://raekei.web.app/#portfolio)
 
-# Hi there, I am Alrae - aka AKCcoding 🙇
+<h1 align="center"> AKCcoding at your service 🙇 </h1>
 
-## Cybersecurity Engineer and Full-Stack Developer
-
-🕵🏻‍♂️ My Core Competencies to look out for :
+🕵🏻‍♂️ Core competencies to look out for :
 
 ✅ Responsible for keeping records and uses GIT version control system to manage and keep track of source codes changes/history and GITHUB for cloud-based data backups and repositories.
 
