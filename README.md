@@ -1,7 +1,7 @@
 <h1>Technologies, Tools, and Stacks</h1>
 
 ### Integrated Development Environment
-[![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)](https://github.com/AKCcoding)
+![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)
 &nbsp;
 
 
