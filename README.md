@@ -3,7 +3,20 @@
 
 ### Programming Languages
 
-[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,swift)](https://github.com/AKCcoding)
+[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,swift)](https://github.com/AKCcoding)
+&nbsp;
+
+### Front - End Development
+[![FE](https://skillicons.dev/icons?i=bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)](https://github.com/AKCcoding)
+&nbsp;
+
+### Back - End Development
+[![BE](https://skillicons.dev/icons?i=nodejs,spring,nest)](https://github.com/AKCcoding)
+&nbsp;
+
+### Mobile
+[![MAD](https://skillicons.dev/icons?i=)](https://github.com/AKCcoding)
+&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
