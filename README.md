@@ -1,5 +1,4 @@
 <h1>Technologies, Tools, and Stacks</h1>
-&nbsp;
 
 ### Programming Languages
 
