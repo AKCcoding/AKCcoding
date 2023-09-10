@@ -2,7 +2,7 @@
 
 ### Programming Languages
 
-[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,swift)](https://github.com/AKCcoding)
+[![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,ruby)](https://github.com/AKCcoding)
 &nbsp;
 
 ### Front - End Development
@@ -14,8 +14,14 @@
 &nbsp;
 
 ### Mobile
-[![MAD](https://skillicons.dev/icons?i=)](https://github.com/AKCcoding)
+[![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,dart,xamarin)](https://github.com/AKCcoding)
 &nbsp;
+
+### Databases
+[![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra)](https://github.com/AKCcoding)
+&nbsp;
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
