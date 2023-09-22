@@ -10,7 +10,7 @@
 &nbsp;
 
 ### Front - End Development
-![FE](https://skillicons.dev/icons?i=bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
+![FE](https://skillicons.dev/icons?i=threejs,bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
 &nbsp;
 
 ### Back - End Development
