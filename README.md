@@ -30,7 +30,7 @@
 &nbsp;
 
 ### Backend as a Service
-![BAAS](https://skillicons.dev/icons?i=firebase,heroku)
+![BAAS](https://skillicons.dev/icons?i=firebase,vercel,heroku)
 &nbsp;
 
 ### Softwares , Version Control, Cybersecurity, and Hardware
