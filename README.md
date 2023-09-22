@@ -14,7 +14,7 @@
 &nbsp;
 
 ### Back - End Development
-![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)
+![BE](https://skillicons.dev/icons?i=nodejs,nextjs,spring,nest,deno,django,flask,rails,laravel)
 &nbsp;
 
 ### Mobile
