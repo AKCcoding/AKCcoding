@@ -10,11 +10,11 @@
 &nbsp;
 
 ### Front - End Development
-![FE](https://skillicons.dev/icons?i=threejs,bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
+![FE](https://skillicons.dev/icons?i=threejs,nextjs,bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
 &nbsp;
 
 ### Back - End Development
-![BE](https://skillicons.dev/icons?i=nodejs,nextjs,spring,nest,deno,django,flask,rails,laravel)
+![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)
 &nbsp;
 
 ### Mobile
