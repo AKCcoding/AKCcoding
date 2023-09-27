@@ -49,18 +49,6 @@
 
 <h1 align="center"> AKCcoding at your service 🙇 </h1>
 
-🕵🏻‍♂️ Core competencies to look out for :
-
-✅ Responsible for keeping records and uses GIT version control system to manage and keep track of source codes changes/history and GITHUB for cloud-based data backups and repositories.
-
-✅ Manages compelling interactive applications that are compatible with different platforms.
-
-✅ Up to Date development tools and resources for maintaining maximum compatibility.
-
-✅ Dedicated to resolve issues and troubleshoot/debug applications.
-
-✅ Develops software effectively and code per specification with feasibility in mind.
-
 - 🤔 I’m currently learning a lot of things including ReactJS, AngularJS, VueJS Frameworks for Web Development; Python, Java and C# for Backend Development.
 - 🌱 I’m looking for an environment wherein I would be able to enhance my skills not just as individual but also as a Developer and Cybersecurity Engineer.
 - 📸⚡🎥 My hobbies are photo editing and video editing.
