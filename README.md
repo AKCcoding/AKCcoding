@@ -1,5 +1,7 @@
 <h1>Technologies, Tools, and Stacks</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;CyberSecurity+Engineer)](https://git.io/typing-svg)
+
 ### Integrated Development Environment
 ![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)
 &nbsp;
@@ -36,6 +38,8 @@
 ### Softwares , Version Control, Cybersecurity, and Hardware
 ![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,linux,arduino)
 &nbsp;
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
