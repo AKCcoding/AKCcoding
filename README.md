@@ -1,6 +1,7 @@
-<h1>Technologies, Tools, and Stacks</h1>
+<h1 align="center">Technologies, Tools, and Stacks</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;CyberSecurity+Engineer)](https://git.io/typing-svg)
+
 
 ### Integrated Development Environment
 ![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)
@@ -40,6 +41,9 @@
 &nbsp;
 
 
+<div align="center">
+<img alt ="spotify-card" width = "480" height="680" src ="https://spotify-github-profile.vercel.app/api/view?uid=314rfto6hyqiwfftay76igtexvm4&cover_image=true&theme=default&show_offline=false&background_color=0e0c0c&interchange=false&bar_color=05f0e0&bar_color_cover=false"/>
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
