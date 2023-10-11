@@ -1,6 +1,9 @@
 <h1 align="center">Technologies, Tools, and Stacks</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;CyberSecurity+Engineer)](https://git.io/typing-svg)
+
+<div align="center">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;CyberSecurity+Engineer;Nice+to+meet+you+...;">
+</div>
 
 
 ### Integrated Development Environment
