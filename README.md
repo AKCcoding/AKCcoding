@@ -46,7 +46,7 @@
 
 ### Softwares , Version Control, Cybersecurity, and Hardware
 
-![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,linux,arduino)
+![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,gitlab,linux,arduino)
 &nbsp;
 
 <div align="center">
