@@ -1,7 +1,7 @@
 <h1 align="center">Technologies, Tools, and Stacks</h1>
 
 <div align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;Cyber Security+Engineer;Nice+to+meet+you+...;">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;Cyber+Security+Engineer;Nice+to+meet+you+...;">
 </div>
 
 ### Integrated Development Environment
