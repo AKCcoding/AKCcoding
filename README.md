@@ -75,8 +75,7 @@
 <h1 align="center"> AKCcoding at your service 🙇 </h1>
 
 - 🤔 Learning a lot of advanced things including ReactJS, AngularJS, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
-- 🌱 I’m looking for an environment wherein I would be able to enhance my skills not just as individual but also as a Developer and Cybersecurity Engineer.
-- 📸⚡🎥 My hobbies are photo editing and video editing.
-- 🎮 I LOVE playing games when I have free time such as League of Legends highest peak(Challenger 500+lp), Valorant(Ascendant), Persona Series, Trading Card Games, MMORPGS
-- 🥅 2023 Goals: Be more mature and responsible
-- 👨🏻‍🎓🎓 Graduate and find a stable job to provide for my family's welfare.
+- 📸⚡🎥🏎️ My hobbies are photo editing, video editing and road trips.
+- 🎮 I LOVE Playing Online Games League of Legends, Valorant etc.
+- 🥅 2024 Goals: Be more mature and Responsible
+- 📁 Provide for my Family's welfare and needs
