@@ -31,12 +31,17 @@
 
 ### Databases
 
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra,prisma)
+&nbsp;
+
+### Cybersecurity
+
+![CS](https://skillicons.dev/icons?i=linux)
 &nbsp;
 
 ### Dev Ops
 
-![DO](https://skillicons.dev/icons?i=aws,docker,jenkins,azure)
+![DO](https://skillicons.dev/icons?i=aws,azure,docker,jenkins)
 &nbsp;
 
 ### Backend as a Service
@@ -44,16 +49,15 @@
 ![BAAS](https://skillicons.dev/icons?i=firebase,vercel,heroku,gcp)
 &nbsp;
 
-### Softwares , Version Control, Cybersecurity, and Hardware
+### Softwares & Version Control
 
-![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,gitlab,linux,arduino)
+![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,gitlab)
 &nbsp;
 
-<div align="center">
-<img alt ="spotify-card" width = "480" height="680" src ="https://spotify-github-profile.vercel.app/api/view?uid=314rfto6hyqiwfftay76igtexvm4&cover_image=true&theme=default&show_offline=false&background_color=0e0c0c&interchange=false&bar_color=05f0e0&bar_color_cover=false"/>
-</div>
+### Hardware
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![HW](https://skillicons.dev/icons?i=arduino,raspberrypi)
+&nbsp;
 
 <img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25"/>
 
@@ -61,6 +65,12 @@
 &nbsp;
 <p align="center">
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=akccoding&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="center">
+<img alt ="spotify-card" width = "480" height="680" src ="https://spotify-github-profile.vercel.app/api/view?uid=314rfto6hyqiwfftay76igtexvm4&cover_image=true&theme=default&show_offline=false&background_color=0e0c0c&interchange=false&bar_color=05f0e0&bar_color_cover=false"/>
+</div>
 
 <h1 align="center"> AKCcoding at your service 🙇 </h1>
 
