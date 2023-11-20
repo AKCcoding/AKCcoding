@@ -11,17 +11,17 @@
 
 ### Programming Languages
 
-![PL](https://skillicons.dev/icons?i=python,java,cs,c,ts,js,php,ruby)
+![PL](https://skillicons.dev/icons?i=python,java,js,ts,php,cs,c,ruby)
 &nbsp;
 
 ### Front - End Development
 
-![FE](https://skillicons.dev/icons?i=threejs,nextjs,bootstrap,react,angular,vue,svelte,html,css,sass,vite,babel,tailwind,qt)
+![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,vercel,threejs,nextjs,react,angular,vue,svelte,vite,babel,tailwind,qt)
 &nbsp;
 
 ### Back - End Development
 
-![BE](https://skillicons.dev/icons?i=nodejs,spring,nest,deno,django,flask,rails,laravel)
+![BE](https://skillicons.dev/icons?i=nodejs,django,flask,spring,nest,deno,laravel,rails)
 &nbsp;
 
 ### Mobile
@@ -46,12 +46,12 @@
 
 ### Backend as a Service
 
-![BAAS](https://skillicons.dev/icons?i=firebase,vercel,heroku,gcp)
+![BAAS](https://skillicons.dev/icons?i=firebase,heroku,gcp)
 &nbsp;
 
-### Softwares & Version Control
+### Version Control and Softwares
 
-![SVCH](https://skillicons.dev/icons?i=wordpress,figma,xd,ps,postman,git,github,gitlab)
+![SVCH](https://skillicons.dev/icons?i=git,github,gitlab,wordpress,figma,xd,ps,postman)
 &nbsp;
 
 ### Hardware
