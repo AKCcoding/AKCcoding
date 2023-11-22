@@ -44,9 +44,9 @@
 ![DO](https://skillicons.dev/icons?i=aws,azure,docker,jenkins)
 &nbsp;
 
-### Backend as a Service
+### Cloud Service
 
-![BAAS](https://skillicons.dev/icons?i=firebase,heroku,gcp)
+![BAAS](https://skillicons.dev/icons?i=firebase,netlify,heroku,gcp)
 &nbsp;
 
 ### Version Control and Softwares
