@@ -36,7 +36,7 @@
 
 ### Cybersecurity
 
-![CS](https://skillicons.dev/icons?i=linux)
+![CS](https://skillicons.dev/icons?i=bash,powershell,linux)
 &nbsp;
 
 ### Dev Ops
