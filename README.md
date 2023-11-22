@@ -31,7 +31,7 @@
 
 ### Databases
 
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,cassandra,prisma)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,ipfs,sqlite,prisma,cassandra,redis)
 &nbsp;
 
 ### Cybersecurity
@@ -76,7 +76,7 @@
 
 - 🤔 Learning a lot of advanced things including ReactJS, AngularJS, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
 - 📸⚡🎥🏎️ My hobbies are photo editing, video editing and road trips.
-- 🎮 I LOVE Playing Online Games League of Legends, Valorant etc. need duo :( 
+- 🎮 I LOVE Playing Online Games League of Legends, Valorant etc. need duo :(
 - 🥅 2024 Goals: Be more mature and responsible
 - 📁 Provide for my Family's welfare and needs
 - 💪😎🔥 Alpha male
