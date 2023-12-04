@@ -74,11 +74,11 @@
 <img alt ="spotify-card" width = "480" height="680" src ="https://spotify-github-profile.vercel.app/api/view?uid=314rfto6hyqiwfftay76igtexvm4&cover_image=true&theme=default&show_offline=false&background_color=0e0c0c&interchange=false&bar_color=05f0e0&bar_color_cover=false"/>
 </div>
 
-<h1 align="center"> AKCcoding at your service 🙇 </h1>
+<h1 align="center"> Feel free to contact me 🙇 </h1>
 
 - 🤔 Learning a lot of advanced things including ReactJS, AngularJS, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
 - 📸⚡🎥🏎️ My hobbies are photo editing, video editing and road trips.
-- 🎮 I LOVE Playing Online Games League of Legends, Valorant etc. need duo :(
+- 🎮 I LOVE Playing Online Games League of Legends, Valorant,
 - 🥅 2024 Goals: Be more mature and responsible
 - 📁 Provide for my Family's welfare and needs
 - 💪😎🔥 Alpha male
