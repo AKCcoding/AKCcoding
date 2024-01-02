@@ -76,9 +76,9 @@
 
 <h1 align="center"> Feel free to contact me 🙇 </h1>
 
-- 🤔 Learning a lot of advanced things including ReactJS, AngularJS, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
+- 🤔 Learning a lot of advanced things including ReactJS Library, Angular, Vue, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
 - 📸⚡🎥🏎️ My hobbies are photo editing, video editing and road trips.
-- 🎮 I LOVE Playing Online Games League of Legends, Valorant,
+- 🎮 I LOVE Playing Online Games League of Legends and Valorant.
 - 🥅 2024 Goals: Be more mature and responsible
 - 📁 Provide for my Family's welfare and needs
 - 💪😎🔥 Alpha male
