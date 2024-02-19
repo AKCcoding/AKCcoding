@@ -70,9 +70,9 @@
 
 <img src = "CS50X_Alrae.png" width = "960" height="800">
 
-<div align="center">
+<!-- <div align="center">
 <img alt ="spotify-card" width = "480" height="680" src ="https://spotify-github-profile.vercel.app/api/view?uid=314rfto6hyqiwfftay76igtexvm4&cover_image=true&theme=default&show_offline=false&background_color=0e0c0c&interchange=false&bar_color=05f0e0&bar_color_cover=false"/>
-</div>
+</div> -->
 
 <h1 align="center"> Feel free to contact me 🙇 </h1>
 
