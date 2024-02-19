@@ -1,7 +1,7 @@
 <h1 align="center">Technologies, Tools, and Stacks</h1>
 
 <div align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Alrae+Kei;I+love+Milk+and+Coffee;Full+-+Stack+Developer;Cyber+Security+Engineer;Nice+to+meet+you+...;">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Engineer;CAG+Manager;">
 </div>
 
 ### Integrated Development Environment
@@ -16,7 +16,7 @@
 
 ### Front - End Development
 
-![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,vercel,threejs,nextjs,react,angular,vue,svelte,vite,babel,tailwind,qt)
+![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,vercel,threejs,nextjs,react,angular,vue,svelte,vite,babel,qt)
 &nbsp;
 
 ### Back - End Development
