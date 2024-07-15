@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://app.daily.dev/akc0412"><img src="https://github.com/AKCcoding/AKCcoding/blob/main/devcard.png" width="356" alt="Alrae's Dev Card"/></a>
+<a href="https://app.daily.dev/akc0412"><img src="https://api.daily.dev/devcards/v2/hX1wBGLmMZnLUuXYyFsQE.png?type=default&r=z3l" width="356" alt="Alrae's Dev Card"/></a>
 </div>
 
 ### Integrated Development Environment
