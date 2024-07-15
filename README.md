@@ -4,6 +4,10 @@
 <img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Engineer;CAG+Manager;">
 </div>
 
+<div align="center">
+<a href="https://app.daily.dev/akc0412"><img src="https://api.daily.dev/devcards/v2/hX1wBGLmMZnLUuXYyFsQE.png?type=default&r=hl3" width="356" alt="Alrae's Dev Card"/></a>
+</div>
+
 ### Integrated Development Environment
 
 ![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)
@@ -11,12 +15,12 @@
 
 ### Programming Languages
 
-![PL](https://skillicons.dev/icons?i=python,java,js,ts,php,cs,c,ruby)
+![PL](https://skillicons.dev/icons?i=js,ts,java,python,php,cs)
 &nbsp;
 
 ### Front - End Development
 
-![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,vercel,threejs,nextjs,react,angular,vue,svelte,vite,babel,qt)
+![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,nextjs,react,svelte,vite)
 &nbsp;
 
 ### Back - End Development
@@ -26,7 +30,7 @@
 
 ### Mobile
 
-![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,dart,xamarin)
+![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,xamarin)
 &nbsp;
 
 ### Databases
@@ -46,7 +50,7 @@
 
 ### Cloud Service
 
-![BAAS](https://skillicons.dev/icons?i=firebase,netlify,heroku,gcp)
+![BAAS](https://skillicons.dev/icons?i=vercel,firebase,netlify,heroku,gcp)
 &nbsp;
 
 ### Version Control and Softwares
@@ -76,9 +80,7 @@
 
 <h1 align="center"> Feel free to contact me 🙇 </h1>
 
-- 🤔 Learning a lot of advanced things including ReactJS Library, Angular, Vue, NextJS Frameworks for Web Development; Django, Flask and Spring Boot for Backend Development.
-- 📸⚡🎥🏎️ My hobbies are photo editing, video editing and road trips.
-- 🎮 I LOVE Playing Online Games League of Legends and Valorant.
-- 🥅 2024 Goals: Be more mature and responsible
-- 📁 Provide for my Family's welfare and needs
-- 💪😎🔥 Alpha male
+- 🤔 Learning a lot of advanced things including ReactJS Library, NextJS for Web Development; Django, Flask and Spring Boot for Backend Development.
+- 📸⚡🎥🏎️ My hobbies are troubleshooting PC technically, video editing, getting physically fit (GYM) and a YES to many road trips.
+- 🎮 I LOVE Playing Online Games League of Legends, TFT, and Valorant.
+- 🥅 2025 Goals: Sell Marketplace for $$$ so I can retire my parents.
