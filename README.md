@@ -1,77 +1,28 @@
-```javascript
-export async function Encrypt(message: string, messageHash: string) {
-  return (await messageHash(message)) === messageHash;
-}
-
-async function messageHash(message: string) {
-  const arrayBuffer = await crypto.subtle.digest(
-    "SHA-512",
-    new TextEncoder().encode(message)
-  );
-
-  return Buffer.from(arrayBuffer).toString("base64");
-}
-```
-
 <div align="center">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=700&size=30&duration=1500&pause=300&color=ffffff&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Analyst;;">
+</div>
+
+<h1 align="center">Technologies, Tools, and Stacks</h1>
+
+![PL](https://skillicons.dev/icons?i=git,github,gitlab,wordpress,java,python,php,cs,vscode,visualstudio,eclipse,idea,mysql,postgresql,mongodb,ipfs,sqlite,prisma,bash,linux,powershell,figma,xd,ps,postman)
+
+### Front - End Development
+
+![FE](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,bootstrap,sass,threejs,svelte,vite)
+&nbsp;
+
+### Back - End Development
+
+![BE](https://skillicons.dev/icons?i=nodejs,django,flask,spring,nest,deno,laravel,vercel,firebase,netlify,aws,azure,docker,jenkins,heroku,gcp)
+&nbsp;
+
+<div align="center">
+<img src = "code.png" width = "700" height="500">
 </div>
 
 <div align="center">
 <a href="https://app.daily.dev/akc0412"><img src="https://api.daily.dev/devcards/v2/hX1wBGLmMZnLUuXYyFsQE.png?type=default&r=z3l" width="356" alt="Alrae's Dev Card"/></a>
 </div>
-
-<h1 align="center">Technologies, Tools, and Stacks</h1>
-
-### Integrated Development Environment
-
-![PL](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea)
-&nbsp;
-
-### Programming Languages
-
-![PL](https://skillicons.dev/icons?i=js,ts,java,python,php,cs)
-&nbsp;
-
-### Front - End Development
-
-![FE](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,threejs,nextjs,react,svelte,vite)
-&nbsp;
-
-### Back - End Development
-
-![BE](https://skillicons.dev/icons?i=nodejs,django,flask,spring,nest,deno,laravel,rails)
-&nbsp;
-
-### Mobile
-
-![MAD](https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,xamarin)
-&nbsp;
-
-### Databases
-
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,ipfs,sqlite,prisma)
-&nbsp;
-
-### Cybersecurity
-
-![CS](https://skillicons.dev/icons?i=bash,powershell,linux)
-&nbsp;
-
-### Dev Ops
-
-![DO](https://skillicons.dev/icons?i=aws,azure,docker,jenkins)
-&nbsp;
-
-### Cloud Service
-
-![BAAS](https://skillicons.dev/icons?i=vercel,firebase,netlify,heroku,gcp)
-&nbsp;
-
-### Version Control and Softwares
-
-![SVCH](https://skillicons.dev/icons?i=git,github,gitlab,wordpress,figma,xd,ps,postman)
-&nbsp;
 
 <img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25"/>
 
