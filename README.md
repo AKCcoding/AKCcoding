@@ -1,12 +1,27 @@
-<h1 align="center">Technologies, Tools, and Stacks</h1>
+```javascript
+export async function Encrypt(message: string, messageHash: string) {
+  return (await messageHash(message)) === messageHash;
+}
+
+async function messageHash(message: string) {
+  const arrayBuffer = await crypto.subtle.digest(
+    "SHA-512",
+    new TextEncoder().encode(message)
+  );
+
+  return Buffer.from(arrayBuffer).toString("base64");
+}
+```
 
 <div align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=500&size=30&duration=1500&pause=300&color=4292F7&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Engineer;CAG+Manager;">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=700&size=30&duration=1500&pause=300&color=ffffff&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Analyst;;">
 </div>
 
 <div align="center">
 <a href="https://app.daily.dev/akc0412"><img src="https://api.daily.dev/devcards/v2/hX1wBGLmMZnLUuXYyFsQE.png?type=default&r=z3l" width="356" alt="Alrae's Dev Card"/></a>
 </div>
+
+<h1 align="center">Technologies, Tools, and Stacks</h1>
 
 ### Integrated Development Environment
 
@@ -35,7 +50,7 @@
 
 ### Databases
 
-![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,ipfs,sqlite,prisma,cassandra,redis)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,ipfs,sqlite,prisma)
 &nbsp;
 
 ### Cybersecurity
@@ -58,11 +73,6 @@
 ![SVCH](https://skillicons.dev/icons?i=git,github,gitlab,wordpress,figma,xd,ps,postman)
 &nbsp;
 
-### Hardware
-
-![HW](https://skillicons.dev/icons?i=arduino,raspberrypi)
-&nbsp;
-
 <img align="left" alt="akccoding's github stats" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=akccoding&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffe400&bg_color=09131b&text_color=ffffff&border_color=0c1a25"/>
 
 <img align="left" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AKCcoding" alt="streak" />
@@ -80,7 +90,7 @@
 
 <h1 align="center"> Feel free to contact me 🙇 </h1>
 
-- 🤔 Learning a lot of advanced things including ReactJS Library, NextJS for Web Development; Django, Flask and Spring Boot for Backend Development.
-- 📸⚡🎥🏎️ My hobbies are troubleshooting PC technically, video editing, getting physically fit (GYM) and a YES to many road trips.
+- 🤔 Learning a lot of advanced things including ReactJS Library, NextJS for Dynamic Web Apps. Django, Flask and Spring Boot for Backend Development.
+- 📸⚡🎥🏎️ My hobbies are troubleshooting PC, video editing, getting physically fit (GYM) and a YES to many road trips.
 - 🎮 I LOVE Playing Online Games League of Legends, TFT, and Valorant.
 - 🥅 2025 Goals: Sell Marketplace for $$$ so I can retire my parents.
