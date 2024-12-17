@@ -1,5 +1,6 @@
 <div align="center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=700&size=30&duration=1500&pause=300&color=ffffff&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Analyst;;">
+<!-- <img src = "https://readme-typing-svg.herokuapp.com?font=Young+serif&weight=700&size=30&duration=1500&pause=300&color=ffffff&background=FDFCFF00&center=true&vCenter=true&random=false&width=435&lines=Full+-+Stack+Developer;Cryptocurrency+Trader;ThirdWeb+Alpha+Builder;Cyber+Security+Analyst;;"> -->
+<h1>“There is no prize to perfection. Only an end to pursuit.”</h1>
 </div>
 
 <h1 align="center">Technologies, Tools, and Stacks</h1>
@@ -17,7 +18,7 @@
 &nbsp;
 
 <div align="center">
-<img src = "code.png" width = "700" height="500">
+<!-- <img src = "code.png" width = "700" height="500"> -->
 </div>
 
 <div align="center">
